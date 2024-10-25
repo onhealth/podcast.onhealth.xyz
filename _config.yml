@@ -18,7 +18,7 @@ baseurl: ""
 # set site author
 author:
   name: OnHealth
-  url: http://casjay.xyz
+  url: http://onhealth.xyz
 
 # set url for the contact form
 form:
@@ -53,7 +53,7 @@ excerpt_separator: "\n\n"
 share-this:
   rss: true
   code: 5acc08103368f4001495b647
-  repo: https://github.com/onhealth/podcast.casjay.xyz
+  repo: https://github.com/onhealth/podcast.onhealth.xyz
   email:
   enabled:
     footer: true

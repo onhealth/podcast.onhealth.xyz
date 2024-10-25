@@ -1,4 +1,4 @@
 ### Mental health podcast
 
-[podcast.casjay.xyz](podcast.casjay.xyz)
+[podcast.onhealth.xyz](podcast.onhealth.xyz)
 
